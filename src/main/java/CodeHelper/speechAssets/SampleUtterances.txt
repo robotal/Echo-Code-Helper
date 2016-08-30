@@ -1,0 +1,77 @@
+CodeLookupIntent what does the code {codeslot_one} mean
+CodeLookupIntent what does {codeslot_one} mean
+CodeLookupIntent what is the definition of the code {codeslot_one}
+CodeLookupIntent define the code {codeslot_one}
+CodeLookupIntent define {codeslot_one}
+CodeLookupIntent what is {codeslot_one}
+CodeLookupIntent lookup the code {codeslot_one}
+CodeLookupIntent what does the code {codeslot_one} {codeslot_two} mean
+CodeLookupIntent what does {codeslot_one} {codeslot_two} mean
+CodeLookupIntent what is the definition of the code {codeslot_one} {codeslot_two}
+CodeLookupIntent define the code {codeslot_one} {codeslot_two}
+CodeLookupIntent define {codeslot_one} {codeslot_two}
+CodeLookupIntent what is {codeslot_one} {codeslot_two}
+CodeLookupIntent lookup the code {codeslot_one} {codeslot_two}
+CodeLookupIntent what does the code {codeslot_one} {codeslot_two} {codeslot_three} mean
+CodeLookupIntent what does {codeslot_one} {codeslot_two} {codeslot_three} mean
+CodeLookupIntent what is the definition of the code {codeslot_one} {codeslot_two} {codeslot_three}
+CodeLookupIntent define the code {codeslot_one} {codeslot_two} {codeslot_three}
+CodeLookupIntent define {codeslot_one} {codeslot_two} {codeslot_three}
+CodeLookupIntent what is {codeslot_one} {codeslot_two} {codeslot_three}
+CodeLookupIntent lookup the code {codeslot_one} {codeslot_two} {codeslot_three}
+CodeLookupIntent what does the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} mean
+CodeLookupIntent what does {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} mean
+CodeLookupIntent what is the definition of the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four}
+CodeLookupIntent define the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four}
+CodeLookupIntent define {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four}
+CodeLookupIntent what is {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four}
+CodeLookupIntent lookup the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four}
+CodeLookupIntent what does the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} mean
+CodeLookupIntent what does {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} mean
+CodeLookupIntent what is the definition of the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five}
+CodeLookupIntent define the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five}
+CodeLookupIntent define {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five}
+CodeLookupIntent what is {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five}
+CodeLookupIntent lookup the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five}
+CodeLookupIntent what does the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} mean
+CodeLookupIntent what does {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} mean
+CodeLookupIntent what is the definition of the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six}
+CodeLookupIntent define the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six}
+CodeLookupIntent define {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six}
+CodeLookupIntent what is {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six}
+CodeLookupIntent lookup the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six}
+CodeLookupIntent what does the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} {codeslot_seven} mean
+CodeLookupIntent what does {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} {codeslot_seven} mean
+CodeLookupIntent what is the definition of the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} {codeslot_seven}
+CodeLookupIntent define the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} {codeslot_seven}
+CodeLookupIntent define {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} {codeslot_seven}
+CodeLookupIntent what is {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} {codeslot_seven}
+CodeLookupIntent lookup the code {codeslot_one} {codeslot_two} {codeslot_three} {codeslot_four} {codeslot_five} {codeslot_six} {codeslot_seven}
+
+DescriptionQueryIntent what is the code for {myocardial infarction|codedescription}
+DescriptionQueryIntent tell me the code for {excision of cystic duct|codedescription}
+DescriptionQueryIntent give me the code for {transfusion of nonautologous whole blood|codedescription}
+DescriptionQueryIntent what's the code for {obturator dislocation|codedescription}
+DescriptionQueryIntent what is the icd ten code for {unspecified injury of|codedescription}
+
+QueryAdditionIntent also add {sequela|codedescription}
+QueryAdditionIntent also add {subsequent encounter|codedescription}
+QueryAdditionIntent also add {Unspecified open wound of abdominal wall|codedescription}
+QueryAdditionIntent add to the search {Open bite of unspecified external genital organs|codedescription}
+QueryAdditionIntent add to search {Panniculitis affecting regions of neck and back|codedescription}
+QueryAdditionIntent add to the description {Malocclusion|codedescription}
+QueryAdditionIntent add {skateboarder|codedescription} to the description
+QueryAdditionIntent add {Nonautologous Percutaneous Approach|codedescription} to the query
+QueryAdditionIntent add to that {inferior wall|codedescription}
+QueryAdditionIntent add to the query {Nonautologous Percutaneous Approach|codedescription}
+QueryAdditionIntent add to query {Nonautologous Percutaneous Approach|codedescription}
+QueryAdditionIntent specify {initial encounter| codedescription}
+
+RemoveLastParameterIntent forget the last thing I said
+RemoveLastParameterIntent forget the last {levels} things I said
+RemoveLastParameterIntent remove {levels} levels
+RemoveLastParameterIntent go down a level
+RemoveLastParameterIntent go back
+RemoveLastParameterIntent return to the previous description
+RemoveLastParameterIntent forget what i said
+RemoveLastParameterIntent go back {levels} levels

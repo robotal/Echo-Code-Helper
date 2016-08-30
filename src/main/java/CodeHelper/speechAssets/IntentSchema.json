@@ -1,0 +1,73 @@
+{
+  "intents": [
+    {
+      "intent": "CodeLookupIntent",
+      "slots": [
+        {
+          "name": "codeslot_one",
+          "type": "ALPHANUMERIC"
+        },
+        {
+          "name": "codeslot_two",
+          "type": "ALPHANUMERIC"
+        },
+        {
+          "name": "codeslot_three",
+          "type": "ALPHANUMERIC"
+        },
+        {
+          "name": "codeslot_four",
+          "type": "ALPHANUMERIC"
+        },
+        {
+          "name": "codeslot_five",
+          "type": "ALPHANUMERIC"
+        },
+        {
+          "name": "codeslot_six",
+          "type": "ALPHANUMERIC"
+        },
+        {
+          "name": "codeslot_seven",
+          "type": "ALPHANUMERIC"
+        }
+      ]
+    },
+    {
+      "intent": "DescriptionQueryIntent",
+      "slots": [
+        {
+          "name": "codedescription",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent" : "QueryAdditionIntent",
+      "slots": [
+        {
+          "name": "codedescription",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent" : "RemoveLastParameterIntent",
+      "slots" : [
+        {
+          "name" : "levels",
+          "type" : "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
